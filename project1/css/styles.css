@@ -10,11 +10,6 @@ nav{
     color: #fff;
 }
 
-div {
-    border-style: groove;
-    
-}
-
 /* Container for the header menu*/
 #menu {
     background-color: #333;
@@ -61,11 +56,11 @@ div {
 
 .content {
     margin-top: 136px; /* Same height as the header to avoid content being hidden */
-    padding-left: 100px;
-    padding-right: 100px;
+
     padding-top: 10px;
     background-color: #b17575f4;
     font-family: 'Open Sans', sans-serif;
+    width: 100%;
     
 }
 
